@@ -1,0 +1,12 @@
+.DisplayBoard {
+    display: flex;
+    align-items:left;
+    flex-wrap: wrap;
+   
+    padding: 5px;
+    margin: 5px;
+
+    border: 1px solid black;
+    border-color: beige;
+    border-radius: 5px;
+}
